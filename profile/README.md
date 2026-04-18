@@ -14,6 +14,7 @@ Paid membership community. Weekly private podcast, bi-weekly live Q&A, hands-on 
 |---|---|
 | [claude-grc-engineering](https://github.com/GRCEngClub/claude-grc-engineering) | Open-source [Claude Code](https://docs.claude.com/claude-code) plugin marketplace: persona plugins, 20+ framework reference plugins, thin cloud/SaaS connectors, and a common Finding contract anyone can plug into |
 | [directory](https://github.com/GRCEngClub/directory) | Public directory of GRC engineers. Hiring managers find practitioners; practitioners find each other |
+| [design-system](https://github.com/GRCEngClub/design-system) | Brand and design system behind grcengclub.com and every Club surface. CSS tokens, Inter fonts, slide templates, UI kits, and assets |
 | [vouch](https://github.com/GRCEngClub/vouch) | Community trust management system based on explicit vouches |
 
 ## Get involved
