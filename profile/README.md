@@ -1,8 +1,10 @@
 # GRC Engineering Club
 
+**GRC engineering** is the practice of applying software engineering principles to governance, risk, and compliance, replacing manual checklists and spreadsheets with automated systems. New to it? Start with [GRC Engineering 101](https://grcengclub.com/learn/grc-engineering-101?utm_source=github&utm_medium=referral&utm_campaign=org-readme).
+
 An open place for GRC practitioners to learn the engineering layer and ship it in public. Engineers, auditors, internal GRC teams, TPRM, 3PAOs, platform operators, and framework experts building the open-source foundation for GRC, the way Learn the Cloud did for cloud.
 
-### → [Join the Club](https://grcengclub.com)
+### → [Join the Club ($70/yr)](https://grcengclub.com/annual?utm_source=github&utm_medium=referral&utm_campaign=org-readme)
 
 Paid membership community. Weekly private podcast, bi-weekly live Q&A, hands-on AWS compliance labs, mock interviews, career playbooks, and live builder sessions. Details and pricing at [grcengclub.com](https://grcengclub.com).
 
